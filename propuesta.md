@@ -24,7 +24,7 @@ Por una parte los **visitantes** pueden seguir la actividad del equipo en forma 
 - Torneos en los que participe
 - Compartir contenido
 
-También pueden contactar con el equipo tanto como para __pedir una invitación__ para la posible integración al equipo como para pedir una posible __lucha entre equipos__.
+También pueden contactar con el equipo tanto para __pedir una invitación__ para la posible integración al equipo como para pedir una posible __lucha entre equipos__.
 
 Los **integrantes del equipo** tienen un panel de control propio al acceder a
 su cuenta, éstos solo podrán tener una cuenta desde la invitación de un administrador. En este panel el usuario puede acceder al __calendario de eventos y sus funcionalidades__.
