@@ -67,5 +67,6 @@ La aplicación debe satisfacer los siguientes objetivos:
 # Elemento de innovación
 
 - Utilización de una [**API de Clash Royale**](https://docs.cr-api.com/) para la recogida de datos.
-- Utilización de la [**API de twitter**](https://developer.twitter.com/).
-- Inclusión de Google Analytics.
+- Utilización de la [**API de twitter**](https://developer.twitter.com/) para las noticias.
+- Inclusión de Google Analytics para tener un seguimiento de la web.
+- Utilización de la plantilla avanzada de Yii2 para realizar un back-end y front-end.
